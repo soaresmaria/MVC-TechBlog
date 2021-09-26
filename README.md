@@ -26,6 +26,12 @@ https://drive.google.com/file/d/10GVYos8vQz4FXehglK6VtYE6ewnOElYV/view
 
 
 ## Screenshot
+<img width="1439" alt="Screen Shot 2021-09-26 at 7 26 05 AM" src="https://user-images.githubusercontent.com/82120954/134805804-d2579e58-2e0f-42cd-b614-ede8a283e294.png">
+
+<img width="1116" alt="Screen Shot 2021-09-26 at 7 27 53 AM" src="https://user-images.githubusercontent.com/82120954/134805809-4adc9638-386c-43c8-85ae-40ba16f46513.png">
+
+<img width="1118" alt="Screen Shot 2021-09-26 at 7 27 05 AM" src="https://user-images.githubusercontent.com/82120954/134805816-aad9ccb7-804a-4d5c-a3f8-842d01ef4d5e.png">
+
 
 
 ## [Questions](#table-of-contents)
