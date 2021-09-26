@@ -22,6 +22,7 @@ You can view posts and visit links as a visitor, create your own account, and as
     
 ## Link
 Here's a link of the walk through
+https://drive.google.com/file/d/10GVYos8vQz4FXehglK6VtYE6ewnOElYV/view
 
 
 ## Screenshot
